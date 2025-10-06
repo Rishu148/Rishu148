@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hey there, I'm Rishu!
 
-<!--
-**Rishu148/Rishu148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Developer | MERN Stack Learner | Future Millionaire Developer 💸
 
-Here are some ideas to get you started:
+I’m **Rishu Dhaked**, a passionate **Full Stack Developer in training** at Skillyards.  
+I love creating modern, responsive, and user-friendly web applications.  
+Currently leveling up my skills in **React**, **Node.js**, and **JavaScript (DSA)** while working on real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🌱 Currently learning **React** & **Data Structures in JavaScript**  
+- 💻 Building cool projects using **MERN Stack**  
+- 📈 Interested in **Stock Market & Investing**  
+- 🧘‍♂️ Trying to improve **discipline, confidence, and consistency** every day  
+- 🎯 Goal: To become a **successful developer & millionaire investor**  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishu148&show_icons=true&theme=tokyonight" alt="Rishu's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishu148&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishu148&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishu148&theme=tokyonight&no-frame=true&margin-w=10" alt="trophies" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Rishu148" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Rishu148-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:rishudhaked@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-rishudhaked@example.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 💬 Quote I Live By
+
+> “Discipline beats motivation — one small improvement every day builds empires.” 🏗️
+
+---
+
+⭐️ **Thanks for visiting my profile!**  
+If you like my work, don’t forget to **star** ⭐ my repositories and **follow** me for updates 🙌  
