@@ -42,14 +42,6 @@ Currently leveling up my skills in **React**, **Node.js**, and **JavaScript (DSA
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishu148&theme=tokyonight&no-frame=true&margin-w=10" alt="trophies" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
