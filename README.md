@@ -49,7 +49,7 @@ Currently leveling up my skills in **React**, **Node.js**, and **JavaScript (DSA
     <img src="https://img.shields.io/badge/GitHub-Rishu148-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:rishudhaked@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-rishudhaked@example.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-dhakedroopkishor@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
