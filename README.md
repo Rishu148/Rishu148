@@ -12,9 +12,8 @@ Currently leveling up my skills in **React**, **Node.js**, and **JavaScript (DSA
 
 - 🌱 Currently learning **React** & **Data Structures in JavaScript**  
 - 💻 Building cool projects using **MERN Stack**  
-- 📈 Interested in **Stock Market & Investing**  
 - 🧘‍♂️ Trying to improve **discipline, confidence, and consistency** every day  
-- 🎯 Goal: To become a **successful developer & millionaire investor**  
+- 🎯 Goal: To become a **successful developer**
 
 ---
 
