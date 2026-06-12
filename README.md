@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Rishu!
 
-### 🚀 Full Stack Developer | MERN Stack Learner | Future Millionaire Developer 💸
+### 🚀 Full Stack Developer | MERN Stack Learner 
 
 I’m **Rishu Dhaked**, a passionate **Full Stack Developer in training** at Skillyards.  
 I love creating modern, responsive, and user-friendly web applications.  
